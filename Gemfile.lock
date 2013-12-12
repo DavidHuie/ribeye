@@ -17,6 +17,7 @@ GEM
     hashie (2.0.5)
     highline (1.6.20)
     httpauth (0.2.0)
+    httpclient (2.3.4.1)
     jeweler (1.8.8)
       builder
       bundler (~> 1.0)
@@ -58,5 +59,6 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.3.5)
+  httpclient (~> 2.3.4.1)
   jeweler (~> 1.8.4)
   rspec (~> 2.8.0)
